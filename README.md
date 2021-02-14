@@ -35,5 +35,5 @@ You can also scan this QR code to Donate us
  Email-Alt is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By Erik 
+<p align="center">Made with ❤️ By MR.ECJ7
  
