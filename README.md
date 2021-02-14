@@ -1,6 +1,6 @@
  <p align="center">
-<img src="https://i.ytimg.com/vi/_UHith29250/maxresdefault.jpg" height="60"><br>
-A cloud based Android Monitoring Tool, powered by NodeJS
+<img src="https://i.ytimg.com/vi/_UHith29250/maxresdefault.jpg"><br>
+
 </p>
  
  ## Email-Alt
