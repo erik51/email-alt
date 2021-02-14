@@ -21,9 +21,7 @@ Email-Alt is a basic but powerful email bombing tool for perform email spamming 
 
 ## You can Donate us to get more advance tools 
 
- - Send us your love on BTC 
- 
- - `32ntb3eGE7CjkkCXJ416Jfyrsp1kZ2ymKN`
+ - Bitcoin `32ntb3eGE7CjkkCXJ416Jfyrsp1kZ2ymKN`
  
 You can also scan this QR code to Donate us 
  <p align="center">
