@@ -17,9 +17,9 @@ def bomb():
 	print bcolors.OKGREEN + '''
 			_
   _______________          |*\_/*|________
-  |  ___________  |        ||_/-\_|______  |          ☢ Github:https://github.com/erik51/email-alt
-  | |           | |        | |           | |          ☢ Author:MR.ECJ7
-  | |   0   0   | |        | |   0   0   | |          ☢ Dont't try to  miss use this tool .
+  |  ___________  |        ||_/-\_|______  |           Github:https://github.com/erik51/email-alt
+  | |           | |        | |           | |           Author:MR.ECJ7
+  | |   0   0   | |        | |   0   0   | |           Dont't try to  miss use this tool .
   | |     -     | |        | |     -     | |
   | |   \___/   | |        | |   \___/   | |
   | |___     ___| |        | |___________| |
