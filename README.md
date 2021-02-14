@@ -1,17 +1,16 @@
-# Emailboom
-Email boombing tool for termux
+#Email-Alt
+
+Email-Alt is a basic but powerful email bombing tool for perform email spamming attack
 
 #############################################
-Follow the instructions to install it.
 
-cd
-pkg install python2
-cd Emailboom
+#How to install and use  Email-Alt tool ?
 
-ls
-chmod +x EmBomber.py
-python2 EmBomber.py
+$git clone https://github.com/erik51/email-alt
+$cd
+$pkg install python2
+$cd Emailboom
+$ls
+$chmod +x EmBomber.py
+$python2 EmBomber.py
 
-Thanks for understanding
-Follow me on YouTube
-www.youtube.com/Subscribesuman
