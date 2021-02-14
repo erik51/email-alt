@@ -1,4 +1,4 @@
-#Email-Alt
+Email-Alt
 
 Email-Alt is a basic but powerful email bombing tool for perform email spamming attack
 
