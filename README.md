@@ -25,9 +25,9 @@ Email-Alt is a basic but powerful email bombing tool for perform email spamming 
  
  - `32ntb3eGE7CjkkCXJ416Jfyrsp1kZ2ymKN`
  
-You can also scen this QR code to Donate us 
+You can also scan this QR code to Donate us 
  <p align="center">
-<img src="https://github.com/erik51/email-alt/blob/main/Screenshot_20210214-235131.png"><br>
+<img src="https://github.com/erik51/email-alt/blob/main/Screenshot_20210214-235131.png" height="300" ><br>
  
 
 ## Disclaimer
